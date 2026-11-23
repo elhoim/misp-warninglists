@@ -186,6 +186,7 @@
     "onmicrosoft.com",
     "onmschina.cn",
     "osi.office365.us",
+    "otelrules.azureedge.net",
     "outlook-dod.office365.us",
     "outlook-int.com",
     "outlook.cloud.microsoft",
@@ -304,5 +305,5 @@
   ],
   "name": "List of known microsoft domains",
   "type": "hostname",
-  "version": 20261022
+  "version": 20261123
 }

@@ -524,7 +524,6 @@
     "HEALTH",
     "HEALTHCARE",
     "HELP",
-    "HELSINKI",
     "HERE",
     "HERMES",
     "HIPHOP",
@@ -1262,7 +1261,6 @@
     "WTF",
     "XBOX",
     "XEROX",
-    "XIHUAN",
     "XIN",
     "XN--11B4C3D",
     "XN--1CK2E1B",
@@ -1446,5 +1444,5 @@
   ],
   "name": "TLDs as known by IANA",
   "type": "string",
-  "version": 20261005
+  "version": 20261123
 }
