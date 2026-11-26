@@ -18,7 +18,6 @@
     "crl-cpki.telekom.de",
     "crl-pro.litessl.com",
     "crl.anf.es",
-    "crl.buypass.no",
     "crl.certigna.com",
     "crl.certigna.fr",
     "crl.certsign.ro",
@@ -31,6 +30,7 @@
     "crl.digicert-validation.com",
     "crl.digicert.cn",
     "crl.e-szigno.hu",
+    "crl.ecc.netlock.hu",
     "crl.emsign.com",
     "crl.ensuredca.com",
     "crl.entrust.net",
@@ -104,7 +104,6 @@
     "ocsp.accv.es",
     "ocsp.anf.es",
     "ocsp.bjca.cn",
-    "ocsp.buypass.com",
     "ocsp.certsign.ro",
     "ocsp.cfca.com.cn",
     "ocsp.comodoca.com",
@@ -114,6 +113,7 @@
     "ocsp.digicert.cn",
     "ocsp.digicert.com",
     "ocsp.eca.hinet.net",
+    "ocsp.ecc.netlock.hu",
     "ocsp.elektronicznypodpis.pl",
     "ocsp.emsign.com",
     "ocsp.ensuredca.com",
@@ -157,7 +157,6 @@
     "ocspsslkoks1.kamusm.gov.tr",
     "oneocsp.microsoft.com",
     "pki-crl.atos.net",
-    "pki-ldap.atos.net",
     "pki-ocsp.atos.net",
     "pki.intranet.eon.com",
     "pki0336.telesec.de",
@@ -229,5 +228,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20261005
+  "version": 20261123
 }
